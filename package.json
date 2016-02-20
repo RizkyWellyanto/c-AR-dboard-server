@@ -1,0 +1,17 @@
+{
+  "name": "socket_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Muhammad Rizky Wellyanto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "shortid": "^2.2.4",
+    "socket.io": "^1.4.4"
+  }
+}
